@@ -1,4 +1,9 @@
 # Maintainer: Petros Angelatos <petrosagg@resin.io>
+# 
+# Adapted from work by:
+#   Dave Higham <pepedog@archlinuxarm.org>
+#   Kevin Mihelich <kevin@archlinuxarm.org>
+
 
 buildarch=18
 
